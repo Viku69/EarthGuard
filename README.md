@@ -1,6 +1,6 @@
 # EarthGuard
 
-<b>SWIFT STUDENT CHALLENGE 2024<b>
+<b>SWIFT STUDENT CHALLENGE 2024  <b>
 <hr>
 
 
@@ -24,11 +24,9 @@
    - By providing insights into CO2 emissions and water/sanitation scores, EarthGuard empowers users to make eco-conscious decisions.
    - The app's continuous improvement reflects its commitment to advancing environmental consciousness and sustainability efforts.
   
-
-
 <hr>
-
-![120BC634-63D1-4F44-8BB5-52C0B8B9CA12_1_102_o](https://github.com/Viku69/EarthGuard/assets/113547823/c2b7e8f8-13ab-4952-a8eb-87106281aeff)
-
-
+<div align = "center">
+   
+https://github.com/Viku69/EarthGuard/assets/113547823/f0f52833-e837-473c-8bf3-b11b3ad35a42
+</div>
 
