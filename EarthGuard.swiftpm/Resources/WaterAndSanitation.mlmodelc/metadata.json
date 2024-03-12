@@ -1,0 +1,67 @@
+[
+  {
+    "metadataOutputVersion" : "3.0",
+    "shortDescription" : "This model predicts the Water and Sanitation Goals Score Out Of 100",
+    "outputSchema" : [
+      {
+        "isOptional" : "0",
+        "formattedType" : "Double",
+        "type" : "Double",
+        "name" : "goal_6_score",
+        "shortDescription" : ""
+      }
+    ],
+    "modelParameters" : [
+
+    ],
+    "author" : "Vikram Singh",
+    "specificationVersion" : 1,
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "10.13",
+      "tvOS" : "11.0",
+      "visionOS" : "1.0",
+      "watchOS" : "4.0",
+      "iOS" : "11.0",
+      "macCatalyst" : "11.0"
+    },
+    "modelType" : {
+      "name" : "MLModelType_pipelineRegressor",
+      "structure" : [
+        {
+          "name" : "MLModelType_oneHotEncoder"
+        },
+        {
+          "name" : "MLModelType_featureVectorizer"
+        },
+        {
+          "name" : "MLModelType_glmRegressor"
+        }
+      ]
+    },
+    "inputSchema" : [
+      {
+        "isOptional" : "0",
+        "formattedType" : "String",
+        "type" : "String",
+        "name" : "country",
+        "shortDescription" : ""
+      },
+      {
+        "isOptional" : "0",
+        "formattedType" : "Int64",
+        "type" : "Int64",
+        "name" : "year",
+        "shortDescription" : ""
+      }
+    ],
+    "userDefinedMetadata" : {
+      "com.apple.createml.app.tag" : "121.3",
+      "com.apple.createml.version" : "14.3.1",
+      "com.apple.coreml.model.preview.type" : "tabularRegressor",
+      "com.apple.createml.app.version" : "5.0"
+    },
+    "generatedClassName" : "WaterAndSanitation",
+    "method" : "predict"
+  }
+]
