@@ -1,7 +1,7 @@
 # EarthGuard
 
-SWIFT STUDENT CHALLENGE 2024
-<br>
+<b>SWIFT STUDENT CHALLENGE 2024<b>
+<hr>
 
 
 1. **Model Creation with CreateML:**
@@ -26,7 +26,9 @@ SWIFT STUDENT CHALLENGE 2024
   
 
 
-<hr>![120BC634-63D1-4F44-8BB5-52C0B8B9CA12_1_102_o](https://github.com/Viku69/EarthGuard/assets/113547823/c2b7e8f8-13ab-4952-a8eb-87106281aeff)
+<hr>
+
+![120BC634-63D1-4F44-8BB5-52C0B8B9CA12_1_102_o](https://github.com/Viku69/EarthGuard/assets/113547823/c2b7e8f8-13ab-4952-a8eb-87106281aeff)
 
 
 
